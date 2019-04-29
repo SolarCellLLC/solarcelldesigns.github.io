@@ -1,0 +1,38 @@
+html {
+	background-color: black; /*#3C5A99;*/
+	opacity: 50%;
+	color: white;
+}
+
+body {
+	width: 100%;
+	margin: auto;
+	background-color: black /* #3C5A99 */;
+	text-align: center;
+	padding: 20px;
+}
+div {
+	border: 3px solid white;
+    /* padding: 10px; */ 
+	margin: 10px; 
+	width: 50%;
+	margin: auto;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.footer {
+	/* float: right; */
+	width: 50%; 
+	margin: auto; 
+	/* padding: 5px;  */
+}
+
+footer {
+	width: 50%;
+	margin: auto;
+	background-color: #f0f3f7;
+} 
+img {
+	width: 100px;
+}
