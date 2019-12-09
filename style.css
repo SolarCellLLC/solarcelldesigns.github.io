@@ -40,8 +40,11 @@ img {
 	width: 100px;
 }
 a:link {
-	color:white;
+	color: white;
 }
 a:visited {
 	color: grey;
+}
+a:hover, a:active {
+  background-color: yellow;
 }
