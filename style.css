@@ -20,6 +20,9 @@ div {
 	padding-left: 10%;
 	padding-right: 10%;
 }
+.linkList {
+	text-align:left;
+}
 
 .footer {
 	/* float: right; */
@@ -35,4 +38,7 @@ footer {
 } 
 img {
 	width: 100px;
+}
+a {
+	color:white;
 }
